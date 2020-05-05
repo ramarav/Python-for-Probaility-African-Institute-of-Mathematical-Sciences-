@@ -14,8 +14,7 @@ Following is the actual assignment given to those students:
 3. Find the probability of obtaining at least one 6 when 5 dice are thrown.
 4. What is the probability of drawing an ace or a heart from a pack of 52 playing cards?
     Box u = 1 contains 1 red ball and 3 black balls. Box u = 2 contains 1 red ball, 1 white ball, and 1 black ball. Box u = 3 contains 1 red ball and 1 black ball.
-5. A box is chosen at random and one ball is drawn. What is the probability that the ball is red? 
-6. Given that the ball is red, what are the probabilities that the chosen box was box u = 1, 2, 3?
-7. Three identical skipping ropes are dropped in a heap. The six free ends of the ropes are picked up by three people—each person picks up one free end with his right hand and another free end with his left. Then they all step away from each other. 
+5. A box is chosen at random and one ball is drawn. What is the probability that the ball is red? Given that the ball is red, what are the probabilities that the chosen box was box u = 1, 2, 3?
+6. Three identical skipping ropes are dropped in a heap. The six free ends of the ropes are picked up by three people—each person picks up one free end with his right hand and another free end with his left. Then they all step away from each other. 
         A. What is the probability that every person finds he is holding a single skipping rope? 
         B. What is the probability that the three people are joined in a single closed chain?
