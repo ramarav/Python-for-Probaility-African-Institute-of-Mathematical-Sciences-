@@ -18,3 +18,6 @@ Following is the actual assignment given to those students:
 6. Three identical skipping ropes are dropped in a heap. The six free ends of the ropes are picked up by three people—each person picks up one free end with his right hand and another free end with his left. Then they all step away from each other. 
         A. What is the probability that every person finds he is holding a single skipping rope? 
         B. What is the probability that the three people are joined in a single closed chain?
+        
+        
+Detailed explanation can be found in my blog : http://electroniccad.blogspot.com/p/python.html
