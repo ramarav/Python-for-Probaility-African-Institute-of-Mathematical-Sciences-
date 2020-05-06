@@ -1,17 +1,4 @@
-# (b)
-#a 1, a 2, and a 3 in any order?
-#Answer :
-#The number of possibilities of getting 1, 2 and 3 in any order are :
-#123
-#132
-#213
-#231
-#312
-#321
-#Hence, there are 6 possibilities.
-#But the total possibilities are 111 to 666. i. e. 6^3
-#Therefore, the total probability is 6/6^3 = 1/6^2
-#The python code for this problem is shown below :
+
 success = 0
 tries = 0
 for first in range(0,6):
