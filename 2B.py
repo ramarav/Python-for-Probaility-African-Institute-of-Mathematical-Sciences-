@@ -1,5 +1,4 @@
-#(b)
-#The answer to this problem is rather simple. Among the total combinations possible, half are odd and half are even (As the numbers are sequentially increasing). Hence, the answer is 1/2 = 0.5
+
 sum=0
 n=0
 tries=0
