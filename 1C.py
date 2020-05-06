@@ -1,9 +1,4 @@
-# (c)
-#The probability of getting a six on first or second or third die is 1/6
-#The total probability is the sum of all these probabilities.
-#If P(A) =P(B) = P(C) = 1/6
-#Then, the total probability P = P(A) * P(B) * P(C) = 1/6 ³
-#The python code is shown below :
+
 success = 0
 tries = 0
 for first in range(1,7):
