@@ -1,7 +1,4 @@
-# Q. No. 3
-#Find the probability of obtaining at least one 6 when 5 dice are thrown.
-#Answer :
-#The python code is as follows :
+
 s=0
 tries=0
 for first in range(1,7):
