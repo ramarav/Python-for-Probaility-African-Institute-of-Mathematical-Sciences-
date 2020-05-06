@@ -1,24 +1,4 @@
-#Answer :
-#(b) Given that the ball is red, what are the probabilities that the chosen box was box u = 1, 2, 3?
 
-#We know that box u=1 contains 4 balls among which 1 is a red ball.
-#The probability of drawing a red ball here is P(A)=1/4.
-
-#Similarly box u=2 contains 3 balls among which 1 is a red ball.
-#The probability of drawing a red ball here is P(B)=1/3.
-
-#And box u=3 contains 2 balls among which 1 is a red ball.
-#The probability of drawing a red ball here is P(C)=1/2.
-
-
-#The red ball might have been drawn from box u=1 OR u=2 OR u=3.
-#OR indicates addition.
-#Hence total probability is P=P(A)+P(B)+P(C)=1/4+1/3+1/2 = 13/12
-
-#Now the probability of drawing a red ball from box u=1 is P(A)/P = 3/13.
-#The probability of drawing a red ball from box u=2 is P(B)/P = 4/13.
-#The probability of drawing a red ball from box u=3 is P(C)/P = 6/13
-#The python code is given below :
 box1=0
 box2=0
 box3=0
