@@ -1,21 +1,3 @@
-#Answer :
-#(b) What is the probability that the three people are joined in a single closed chain?
-
-#Let us assume that the first person catches rope 1- end 1.
-#Now he has got 4 out of 5 ends left as he should not choose end 2.
-#Therefore the probability is P(A) = 4/5
-
-#Let us now assume that the second person catches rope 2- end 3.
-#Now he has got 2 out of 3 ends left as he should not choose end 4.
-#Therefore the probability is P(B) = 2/3
-
-#Now the third person has got only 1 more option left.
-#Therefore the probability is P(C) = 1/1= 1
-
-#Therefore the total probability is P = P(A)*P(B)*P(C)= 4/5*2/3*1=8/15
-
-#The python code is given below :
-
 s1=0
 tries1=0
 a=0
